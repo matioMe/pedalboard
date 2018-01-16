@@ -1,3 +1,4 @@
 # pedalboard
 
-The files of a guitar pedal board for electric guitar
+The files of a pedal board for electric guitar.
+This pedalboard was designed for two 6x600x600 medium plate
